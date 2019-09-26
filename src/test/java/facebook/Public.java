@@ -25,4 +25,4 @@ public abstract class Public {
         System.out.print("\r");
     }
 }
-git 
+git
